@@ -1,1 +1,4 @@
 # data-engineering
+
+- Postgres
+- Redshift
